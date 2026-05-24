@@ -9,17 +9,17 @@ Course: BAI21113 Software Engineering
 This project is a simple task tracking system designed to help users manage tasks, monitor progress and improve teamwork efficiency using GitHub collaboration. 
 
 ## Project Tools
--GitHub
+1.GitHub
 
--GitHub Bash
+2.GitHub Bash
 
--Visual Studio Code
+3.Visual Studio Code
 
--HTML 
+4.HTML 
 
-CSS 
+5.CSS 
 
--JavaScript
+6.JavaScript
 
 ## Agile Methodology
 This project follows Agile (Scrum/Kanban) methodlogy using GitHub Issues, Branches and Pull Requests for collaboration and task tracking.
