@@ -10,10 +10,15 @@ This project is a simple task tracking system designed to help users manage task
 
 ## Project Tools:
 1. GitHub
+
 2. GitHub Bash
+
 3. Visual Studio Code
+
 4. HTML 
+
 5. CSS 
+
 6. JavaScript
 
 ## Agile Methodology
