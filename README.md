@@ -13,8 +13,11 @@ This project is a simple task tracking system designed to help users manage task
 
 ## Project Tools
 -GitHub
+
 -GitHub Bash
+
 -Visual Studio Code
+
 -HTML / CSS / JavaScript
 
 ## Agile Methodology
