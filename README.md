@@ -10,9 +10,16 @@ This project is a simple task tracking system designed to help users manage task
 
 ## Project Tools
 -GitHub
+
 -GitHub Bash
+
 -Visual Studio Code
--HTML / CSS / JavaScript
+
+-HTML 
+
+CSS 
+
+-JavaScript
 
 ## Agile Methodology
 This project follows Agile (Scrum/Kanban) methodlogy using GitHub Issues, Branches and Pull Requests for collaboration and task tracking.
