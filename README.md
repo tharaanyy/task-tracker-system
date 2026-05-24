@@ -1,8 +1,11 @@
 # task-tracker-system
 ## Team Members: 
 Tharany A/P jayakumar  (Product Owner)
+
 Shanjana De Lerra Mahendran  (Developer)
+
 Saamuel Kolandasamy  (Scrum Master)
+
 Course: BAI21113 Software Engineering
 
 ## About This Project
