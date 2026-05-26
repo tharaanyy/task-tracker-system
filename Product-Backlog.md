@@ -1,5 +1,5 @@
 # Product Backlog
-##Poduct Owner: Tharany
+## Product Owner: Tharany
 ## User Stories
 
 # Product Backlog
