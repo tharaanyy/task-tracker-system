@@ -20,6 +20,18 @@ The system demonstrates Agile methodology, GitHub collaboration, and version con
 
 ---
 
+## Project Tools:
+1. GitHub
+
+2. GitHub Bash
+
+3. Visual Studio Code
+
+4. HTML 
+
+5. CSS 
+
+6. JavaScript
 ## Project Tools
 
 - GitHub
